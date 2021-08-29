@@ -1,0 +1,12 @@
+C:\Users\Md. Mehedi Hasan\source\repos\ApiTemplate\SMSService\bin\Debug\net5.0\SMSService.deps.json
+C:\Users\Md. Mehedi Hasan\source\repos\ApiTemplate\SMSService\bin\Debug\net5.0\SMSService.dll
+C:\Users\Md. Mehedi Hasan\source\repos\ApiTemplate\SMSService\bin\Debug\net5.0\ref\SMSService.dll
+C:\Users\Md. Mehedi Hasan\source\repos\ApiTemplate\SMSService\bin\Debug\net5.0\SMSService.pdb
+C:\Users\Md. Mehedi Hasan\source\repos\ApiTemplate\SMSService\obj\Debug\net5.0\SMSService.csproj.AssemblyReference.cache
+C:\Users\Md. Mehedi Hasan\source\repos\ApiTemplate\SMSService\obj\Debug\net5.0\SMSService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Md. Mehedi Hasan\source\repos\ApiTemplate\SMSService\obj\Debug\net5.0\SMSService.AssemblyInfoInputs.cache
+C:\Users\Md. Mehedi Hasan\source\repos\ApiTemplate\SMSService\obj\Debug\net5.0\SMSService.AssemblyInfo.cs
+C:\Users\Md. Mehedi Hasan\source\repos\ApiTemplate\SMSService\obj\Debug\net5.0\SMSService.csproj.CoreCompileInputs.cache
+C:\Users\Md. Mehedi Hasan\source\repos\ApiTemplate\SMSService\obj\Debug\net5.0\SMSService.dll
+C:\Users\Md. Mehedi Hasan\source\repos\ApiTemplate\SMSService\obj\Debug\net5.0\ref\SMSService.dll
+C:\Users\Md. Mehedi Hasan\source\repos\ApiTemplate\SMSService\obj\Debug\net5.0\SMSService.pdb
